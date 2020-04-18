@@ -1,1 +1,1 @@
-"# SoftCollection" 
+# SoftCollection
