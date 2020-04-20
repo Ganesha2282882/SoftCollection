@@ -19,7 +19,7 @@ Well, it's easy. Just follow the steps below:
 
 4. Extract it with your zip extractor.
 
-5. Click on a file to download it.
+5. Click on a file to open it.
 
 6. Done!
 
