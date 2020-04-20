@@ -15,7 +15,7 @@ Well, it's easy. Just follow the steps below:
 
 3. Download this repo as a zip:
 
-<img src="https://soft-docs--ganeshasharma.repl.co/download.JPG"></img>
+<img src="https://soft-docs--ganeshasharma.repl.co/download.JPG">
 
 4. Extract it with your zip extractor.
 
