@@ -14,6 +14,7 @@ Well, it's easy. Just follow the steps below:
 2. Install Python <a href="https://www.python.org/">here</a> as well.
 
 3. Download this repo as a zip:
+
 <img src="https://soft-docs--ganeshasharma.repl.co/download.JPG"></img>
 
 4. Extract it with your zip extractor.
